@@ -1,6 +1,6 @@
 ########################################################################################
 # COMP182 - Java Data Structures
-# Description: A collection of various Data Structure programs that I wrote in Java during the Fall 2018 semester for my Assembly Language class.
+# Description: A collection of various Data Structure programs that I wrote in Java during the Fall 2018 semester for my "Data Structures and Program Design" class.
 # Written by Dustin Redmon
 ########################################################################################
 
